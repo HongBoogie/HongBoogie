@@ -1,7 +1,4 @@
-## 
-<div align="center">
-  <img src="https://www.canva.com/design/DAGMbE6jS-Y/O-3BY9DyR9ExGZXHIDTjpg/edit?utm_content=DAGMbE6jS-Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
-</div>
+![Hello, there!](https://github.com/user-attachments/assets/d7742ceb-83da-4cca-bf10-2b959218879c)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongBoogie&layout=compact)
 
