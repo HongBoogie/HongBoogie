@@ -1,5 +1,3 @@
-![Hello, there!](https://github.com/user-attachments/assets/d7742ceb-83da-4cca-bf10-2b959218879c)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongBoogie&layout=compact)
 
 
