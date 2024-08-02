@@ -11,6 +11,6 @@
 
 ### 맡았던 프로젝트
 
-|Duration|Project|Info|
-|:-:|:-:|:-:|
-|2023.06 - 2024.06|캡스톤 디자인 프로젝트|[Github Link](https://github.com/HongBoogie/pencil-me-fe)|
+|Duration|Project|Part|Info|
+|:-:|:-:|:-:|:-:|
+|2023.06 - 2024.06|캡스톤 디자인 프로젝트|Front-End|[Github Link](https://github.com/HongBoogie/pencil-me-fe)|
