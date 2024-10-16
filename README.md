@@ -2,6 +2,12 @@
 
 **안녕하세요! 지속적으로 성장하는 개발자가 되고싶은 홍정우입니다👐🏻**
 
+<br/>
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=HongBoogie&theme=desert" width="600px" />
+</a>
+<br />
+
 ### 소속
 
 |Duration|Experience|Info|
