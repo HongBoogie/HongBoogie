@@ -14,3 +14,4 @@
 |Duration|Project|Part|Info|
 |:-:|:-:|:-:|:-:|
 |2023.06 - 2024.06|Pencil me|Front-End|[Github Link](https://github.com/HongBoogie/pencil-me-fe)|
+|2024.10 - 2024.12|Funch|Front-End|[Github Link](https://github.com/boostcampwm-2024/web25-funch)|
